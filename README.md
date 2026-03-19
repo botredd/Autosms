@@ -1,2 +1,0 @@
-# Autosms
-Auto sms
